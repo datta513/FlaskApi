@@ -1,6 +1,5 @@
 from flask import Flask,request,url_for,redirect,jsonify,render_template
 from flask_restful import Resource,Api
-from Clas import AUTh
 import os
 import pandas as pd 
 
